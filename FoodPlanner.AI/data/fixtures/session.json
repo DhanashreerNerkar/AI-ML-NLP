@@ -1,0 +1,11 @@
+{
+  "confirmed_items": ["spinach", "chicken", "rice", "lemons"],
+  "ranked": [],
+  "critical_priority": [],
+  "recipe_candidates": [],
+  "plan": null,
+  "substitution": null,
+  "gap_list": null,
+  "intent": "plan",
+  "pipeline_step": "confirm"
+}

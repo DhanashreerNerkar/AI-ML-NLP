@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "title": "Spinach Lemon Rice Bowl",
+    "ingredients": ["spinach", "rice", "lemon", "garlic", "oil", "salt"],
+    "ready_in_minutes": 20,
+    "steps": ["Saute garlic in oil", "Wilt spinach", "Toss with rice and lemon"],
+    "source": "fixture"
+  },
+  {
+    "id": 1002,
+    "title": "Paneer Spinach Skillet",
+    "ingredients": ["paneer", "spinach", "onion", "tomato", "cumin", "oil", "salt"],
+    "ready_in_minutes": 25,
+    "steps": ["Saute onion and tomato", "Add spices", "Fold in paneer and spinach"],
+    "source": "fixture"
+  },
+  {
+    "id": 1003,
+    "title": "Lemon Herb Chickpea Salad",
+    "ingredients": ["chickpeas", "lemon", "cucumber", "olive oil", "salt", "pepper"],
+    "ready_in_minutes": 15,
+    "steps": ["Drain chickpeas", "Toss with lemon and oil", "Season and serve"],
+    "source": "fixture"
+  },
+  {
+    "id": 1004,
+    "title": "Tofu Stir Fry with Greens",
+    "ingredients": ["tofu", "spinach", "soy sauce", "garlic", "oil", "rice"],
+    "ready_in_minutes": 25,
+    "steps": ["Brown tofu", "Add greens", "Finish with soy and serve over rice"],
+    "source": "fixture"
+  },
+  {
+    "id": 1005,
+    "title": "Chicken Kale Bake",
+    "ingredients": ["chicken", "kale", "cream", "garlic", "salt"],
+    "ready_in_minutes": 35,
+    "steps": ["Bake chicken with kale in cream sauce"],
+    "source": "fixture"
+  },
+  {
+    "id": 1006,
+    "title": "Tomato Lentil Dal",
+    "ingredients": ["lentils", "tomato", "cumin", "turmeric", "oil", "salt", "lemon"],
+    "ready_in_minutes": 30,
+    "steps": ["Cook lentils", "Temper spices", "Finish with tomato and lemon"],
+    "source": "fixture"
+  }
+]

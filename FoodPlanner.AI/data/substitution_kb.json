@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "missing": "buttermilk",
+      "aliases": ["cultured buttermilk"],
+      "substitutes": [
+        {"substitute": "milk + lemon juice", "prep": "mix 1 cup milk with 1 tbsp lemon juice; rest 5 min", "integration": "use 1:1 in place of buttermilk", "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]},
+        {"substitute": "almond milk + lemon juice", "prep": "mix 1 cup almond milk with 1 tbsp lemon juice; rest 5 min", "integration": "use 1:1 in place of buttermilk", "diet_tags": ["vegan", "vegetarian", "dairy-free"]},
+        {"substitute": "yogurt thinned with water", "prep": "whisk equal parts yogurt and water until pourable", "integration": "use 1:1 for buttermilk", "diet_tags": ["vegetarian", "non-vegetarian"]}
+      ]
+    },
+    {
+      "missing": "paneer",
+      "aliases": ["indian cottage cheese"],
+      "substitutes": [
+        {"substitute": "firm tofu", "prep": "press tofu 15 min; cut into cubes", "integration": "use 1:1 by volume in curries", "diet_tags": ["vegan", "vegetarian", "dairy-free"]},
+        {"substitute": "extra-firm tofu + mild salt", "prep": "press and lightly salt tofu cubes", "integration": "simmer briefly in sauce", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "ricotta drained", "prep": "drain ricotta in cheesecloth 20 min", "integration": "use in milder sauces, not high-heat fry", "diet_tags": ["vegetarian"]}
+      ]
+    },
+    {
+      "missing": "egg",
+      "aliases": ["eggs"],
+      "substitutes": [
+        {"substitute": "flax egg", "prep": "1 tbsp ground flax + 3 tbsp water; rest 5 min", "integration": "binds batters 1:1 per egg", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "chia egg", "prep": "1 tbsp chia + 3 tbsp water; rest 5 min", "integration": "binds batters 1:1 per egg", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "silken tofu puree", "prep": "blend 1/4 cup silken tofu smooth", "integration": "use in dense baked goods", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "butter",
+      "aliases": ["salted butter"],
+      "substitutes": [
+        {"substitute": "olive oil", "prep": "measure equal volume", "integration": "use for sauteing; reduce salt if needed", "diet_tags": ["vegan", "vegetarian", "dairy-free"]},
+        {"substitute": "coconut oil", "prep": "soften to room temp", "integration": "1:1 in baking and saute", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "ghee", "prep": "melt gently", "integration": "1:1 for cooking; not vegan", "diet_tags": ["vegetarian", "non-vegetarian"]}
+      ]
+    },
+    {
+      "missing": "cream",
+      "aliases": ["heavy cream", "whipping cream"],
+      "substitutes": [
+        {"substitute": "coconut cream", "prep": "scoop thick top of chilled coconut milk", "integration": "1:1 in curries and soups", "diet_tags": ["vegan", "vegetarian", "dairy-free"]},
+        {"substitute": "cashew cream", "prep": "blend soaked cashews with water until smooth", "integration": "1:1 for creamy sauces", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "evaporated milk", "prep": "use undiluted", "integration": "slightly thinner sauces", "diet_tags": ["vegetarian"]}
+      ]
+    },
+    {
+      "missing": "chicken broth",
+      "aliases": ["chicken stock"],
+      "substitutes": [
+        {"substitute": "vegetable broth", "prep": "use equal volume", "integration": "1:1 liquid replacement", "diet_tags": ["vegan", "vegetarian", "halal", "kosher"]},
+        {"substitute": "mushroom broth", "prep": "simmer dried mushrooms 20 min; strain", "integration": "adds umami depth", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "water + soy sauce", "prep": "1 cup water + 1 tsp soy sauce", "integration": "light savory base", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "soy sauce",
+      "aliases": ["shoyu"],
+      "substitutes": [
+        {"substitute": "tamari", "prep": "use equal volume", "integration": "1:1; often gluten-free", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "coconut aminos", "prep": "use equal volume", "integration": "slightly sweeter; reduce sugar elsewhere", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "salt + splash of vinegar", "prep": "pinch salt + 1/2 tsp vinegar per tbsp soy", "integration": "emergency savory note", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "garlic",
+      "aliases": ["garlic cloves"],
+      "substitutes": [
+        {"substitute": "garlic powder", "prep": "1/8 tsp powder per clove", "integration": "add with spices", "diet_tags": ["vegan", "vegetarian", "jain-excluded"]},
+        {"substitute": "asafoetida (hing) pinch", "prep": "bloom pinch in hot oil", "integration": "savory allium note for Jain-friendly cooking", "diet_tags": ["vegan", "vegetarian", "jain"]},
+        {"substitute": "omit + extra ginger", "prep": "add 1 tsp grated ginger", "integration": "keeps aroma without garlic", "diet_tags": ["vegan", "vegetarian", "jain"]}
+      ]
+    },
+    {
+      "missing": "onion",
+      "aliases": ["onions"],
+      "substitutes": [
+        {"substitute": "shallot", "prep": "mince finely", "integration": "use ~3/4 volume", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "leek whites", "prep": "wash well; slice", "integration": "milder onion flavor", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "omit + hing + tomato", "prep": "bloom hing; increase tomato base", "integration": "Jain-friendly base", "diet_tags": ["vegan", "vegetarian", "jain"]}
+      ]
+    },
+    {
+      "missing": "parmesan",
+      "aliases": ["parmigiano", "parmesan cheese"],
+      "substitutes": [
+        {"substitute": "nutritional yeast", "prep": "sprinkle dry", "integration": "1–2 tbsp for cheesy note", "diet_tags": ["vegan", "vegetarian", "dairy-free"]},
+        {"substitute": "pecorino", "prep": "grate finely", "integration": "similar salty finish; not vegetarian if rennet", "diet_tags": ["non-vegetarian", "pescatarian"]},
+        {"substitute": "aged cheddar", "prep": "finely grate", "integration": "melt lightly at end", "diet_tags": ["vegetarian"]}
+      ]
+    },
+    {
+      "missing": "fish sauce",
+      "aliases": ["nam pla"],
+      "substitutes": [
+        {"substitute": "soy sauce + lime", "prep": "2 tsp soy + 1/2 tsp lime", "integration": "per tsp fish sauce", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "salt + mushroom powder", "prep": "pinch each", "integration": "umami without seafood", "diet_tags": ["vegan", "vegetarian", "halal"]},
+        {"substitute": "anchovy paste", "prep": "tiny smear", "integration": "not for vegetarian/vegan", "diet_tags": ["non-vegetarian", "pescatarian"]}
+      ]
+    },
+    {
+      "missing": "gelatin",
+      "aliases": ["gelatine"],
+      "substitutes": [
+        {"substitute": "agar agar", "prep": "bloom per package; boil briefly", "integration": "sets firmer; cool fully", "diet_tags": ["vegan", "vegetarian", "halal", "kosher"]},
+        {"substitute": "pectin", "prep": "follow jam ratio", "integration": "best for fruit gels", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "cornstarch slurry", "prep": "1 tbsp starch + cold water", "integration": "thickens, does not gel the same", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "honey",
+      "aliases": [],
+      "substitutes": [
+        {"substitute": "maple syrup", "prep": "use equal volume", "integration": "1:1 sweetener", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "agave nectar", "prep": "use equal volume", "integration": "slightly sweeter; start with less", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "sugar syrup", "prep": "dissolve sugar in warm water 1:1", "integration": "neutral sweetness", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "yogurt",
+      "aliases": ["curd", "dahi"],
+      "substitutes": [
+        {"substitute": "coconut yogurt", "prep": "stir smooth", "integration": "1:1 in marinades and sauces", "diet_tags": ["vegan", "dairy-free"]},
+        {"substitute": "silken tofu + lemon", "prep": "blend tofu with lemon and salt", "integration": "tangy dairy-free base", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "sour cream", "prep": "thin with water if needed", "integration": "richer; not vegan", "diet_tags": ["vegetarian"]}
+      ]
+    },
+    {
+      "missing": "rice",
+      "aliases": ["basmati", "white rice"],
+      "substitutes": [
+        {"substitute": "quinoa", "prep": "rinse; cook 1:2 with water", "integration": "fluffy grain side", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "cauliflower rice", "prep": "pulse cauliflower; saute 5 min", "integration": "low-carb base", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "couscous", "prep": "steep in hot water 5 min", "integration": "quick side; check gluten needs", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "tomato",
+      "aliases": ["tomatoes"],
+      "substitutes": [
+        {"substitute": "canned crushed tomato", "prep": "use drained if watery", "integration": "1:1 for sauces", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "tomato paste + water", "prep": "1 tbsp paste + 1/3 cup water", "integration": "concentrated tomato note", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "roasted red pepper puree", "prep": "blend jarred peppers", "integration": "sweeter sauce base", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "lemon",
+      "aliases": ["lemons", "lemon juice"],
+      "substitutes": [
+        {"substitute": "lime juice", "prep": "fresh squeeze", "integration": "1:1 acid", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "white vinegar", "prep": "use half volume then taste", "integration": "sharper acid; start small", "diet_tags": ["vegan", "vegetarian"]},
+        {"substitute": "amchur (dry mango)", "prep": "1/4 tsp per lemon", "integration": "add with spices", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    },
+    {
+      "missing": "milk",
+      "aliases": ["whole milk"],
+      "substitutes": [
+        {"substitute": "oat milk", "prep": "shake well", "integration": "1:1 cooking and baking", "diet_tags": ["vegan", "dairy-free"]},
+        {"substitute": "almond milk", "prep": "unsweetened preferred", "integration": "1:1; thinner sauces", "diet_tags": ["vegan", "dairy-free"]},
+        {"substitute": "soy milk", "prep": "unsweetened", "integration": "1:1 protein-rich swap", "diet_tags": ["vegan", "vegetarian"]}
+      ]
+    }
+  ]
+}

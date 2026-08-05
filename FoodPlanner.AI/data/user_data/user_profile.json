@@ -1,0 +1,52 @@
+{
+  "user_id": "user_1dff8214f2",
+  "diet_type": "non-vegetarian",
+  "diet_style": "none",
+  "cultural_rules": [
+    "Halal",
+    "Hindu dietary preference"
+  ],
+  "cultural_constraints": [
+    "Halal",
+    "Hindu dietary preference"
+  ],
+  "jain_rules": [],
+  "allergies": [],
+  "hard_exclusions": [
+    "bacon",
+    "beef",
+    "ham",
+    "pork"
+  ],
+  "dietary_restrictions": [
+    "bacon",
+    "beef",
+    "ham",
+    "pork"
+  ],
+  "dislikes": [],
+  "ambient_rules": [
+    "no beef"
+  ],
+  "servings": 1,
+  "household_includes_children": false,
+  "cooking_time_preference": "under_15",
+  "time_limit_min": 15,
+  "nights": 1,
+  "cooking_skill": "beginner",
+  "equipment": [
+    "stovetop"
+  ],
+  "preferred_cuisines": [],
+  "spice_level": "mild",
+  "meal_types": [
+    "dinner"
+  ],
+  "assumed_staples": [
+    "salt",
+    "pepper",
+    "oil",
+    "water"
+  ],
+  "profile_confirmed": true
+}

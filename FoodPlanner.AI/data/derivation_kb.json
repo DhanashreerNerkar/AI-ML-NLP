@@ -1,0 +1,342 @@
+{
+  "entries": [
+    {
+      "derivative": "paneer",
+      "aliases": ["indian cottage cheese"],
+      "options": [
+        {
+          "option_id": "paneer_from_milk",
+          "label": "Make paneer from milk",
+          "base_ingredients": ["milk", "lemon", "vinegar"],
+          "method_steps": [
+            "Bring 1 liter milk to a gentle boil for 2–3 minutes",
+            "Add 1–2 tbsp lemon juice or vinegar while stirring until curds form",
+            "Strain through cheesecloth, rinse, and press 15–20 minutes"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian", "halal", "kosher", "hindu-vegetarian"]
+        },
+        {
+          "option_id": "paneer_from_curd",
+          "label": "Make paneer from curd/yogurt",
+          "base_ingredients": ["yogurt", "milk"],
+          "method_steps": [
+            "Warm 1 cup milk with 1 cup thick yogurt until curds separate",
+            "Strain and press as for milk paneer",
+            "Cube and use in curry"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian", "halal", "hindu-vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "buttermilk",
+      "aliases": ["cultured buttermilk"],
+      "options": [
+        {
+          "option_id": "buttermilk_from_milk_acid",
+          "label": "Make buttermilk from milk + acid",
+          "base_ingredients": ["milk", "lemon"],
+          "method_steps": [
+            "Measure 1 cup milk",
+            "Stir in 1 tbsp lemon juice or vinegar",
+            "Rest 5 minutes until slightly thickened"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]
+        },
+        {
+          "option_id": "buttermilk_from_yogurt",
+          "label": "Make buttermilk from yogurt",
+          "base_ingredients": ["yogurt"],
+          "method_steps": [
+            "Whisk equal parts yogurt and water until pourable",
+            "Use immediately as buttermilk"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "butter",
+      "aliases": ["homemade butter"],
+      "options": [
+        {
+          "option_id": "butter_from_cream",
+          "label": "Make butter from cream",
+          "base_ingredients": ["cream"],
+          "method_steps": [
+            "Whip cold heavy cream past soft peaks until butterfat separates",
+            "Drain buttermilk; rinse butter under cold water",
+            "Knead lightly and salt if desired"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "yogurt",
+      "aliases": ["curd", "dahi"],
+      "options": [
+        {
+          "option_id": "yogurt_from_milk",
+          "label": "Make yogurt/curd from milk",
+          "base_ingredients": ["milk", "yogurt"],
+          "method_steps": [
+            "Scald milk and cool to lukewarm",
+            "Stir in 1–2 tbsp plain yogurt as starter",
+            "Incubate warm 6–8 hours until set"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian", "halal", "hindu-vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "ricotta",
+      "aliases": ["fresh ricotta"],
+      "options": [
+        {
+          "option_id": "ricotta_from_milk",
+          "label": "Make ricotta-style cheese from milk",
+          "base_ingredients": ["milk", "lemon"],
+          "method_steps": [
+            "Heat milk until steaming",
+            "Add lemon juice; stir until curds form",
+            "Strain lightly for a softer cheese"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "sourdough starter",
+      "aliases": ["starter"],
+      "options": [
+        {
+          "option_id": "starter_flour_water",
+          "label": "Make sourdough starter from flour + water",
+          "base_ingredients": ["flour", "water"],
+          "method_steps": [
+            "Mix equal weights flour and water",
+            "Rest warm 24 hours; feed daily equal flour and water",
+            "Ready when bubbly and doubling in 4–8 hours"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "non-vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "ghee",
+      "aliases": ["clarified butter"],
+      "options": [
+        {
+          "option_id": "ghee_from_butter",
+          "label": "Make ghee from butter",
+          "base_ingredients": ["butter"],
+          "method_steps": [
+            "Melt butter on low heat",
+            "Simmer until milk solids brown and separate",
+            "Strain clear fat and cool"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian", "hindu-vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "tofu scramble binder",
+      "aliases": ["egg scramble alternative base"],
+      "options": [
+        {
+          "option_id": "scramble_from_tofu",
+          "label": "Make scramble base from tofu",
+          "base_ingredients": ["tofu", "turmeric", "salt"],
+          "method_steps": [
+            "Crumble firm tofu",
+            "Season with turmeric, salt, and pepper",
+            "Saute until hot and slightly dry"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "dairy-free"]
+        }
+      ]
+    },
+    {
+      "derivative": "cashew cream",
+      "aliases": ["dairy-free cream"],
+      "options": [
+        {
+          "option_id": "cashew_cream",
+          "label": "Make cream from cashews",
+          "base_ingredients": ["cashews", "water"],
+          "method_steps": [
+            "Soak cashews 20–30 minutes in hot water",
+            "Blend with fresh water until silky",
+            "Use as cream in sauces"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "dairy-free"]
+        }
+      ]
+    },
+    {
+      "derivative": "almond milk",
+      "aliases": ["homemade almond milk"],
+      "options": [
+        {
+          "option_id": "almond_milk_homemade",
+          "label": "Make almond milk",
+          "base_ingredients": ["almonds", "water"],
+          "method_steps": [
+            "Soak almonds overnight; drain",
+            "Blend with water; strain through nut milk bag",
+            "Chill and shake before use"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "dairy-free"]
+        }
+      ]
+    },
+    {
+      "derivative": "vegetable broth",
+      "aliases": ["homemade stock"],
+      "options": [
+        {
+          "option_id": "broth_from_scraps",
+          "label": "Make vegetable broth from scraps",
+          "base_ingredients": ["onion", "carrot", "celery", "garlic"],
+          "method_steps": [
+            "Simmer vegetable scraps in water 45–60 minutes",
+            "Season lightly with salt and pepper",
+            "Strain and cool"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "halal", "kosher"]
+        },
+        {
+          "option_id": "broth_jain",
+          "label": "Make Jain-friendly vegetable broth",
+          "base_ingredients": ["tomato", "carrot", "cabbage"],
+          "method_steps": [
+            "Simmer non-root allowed vegetables 45 minutes",
+            "Avoid onion and garlic",
+            "Strain and season"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "jain"]
+        }
+      ]
+    },
+    {
+      "derivative": "tomato paste",
+      "aliases": [],
+      "options": [
+        {
+          "option_id": "paste_from_tomatoes",
+          "label": "Reduce tomatoes into paste",
+          "base_ingredients": ["tomato", "oil", "salt"],
+          "method_steps": [
+            "Cook chopped tomatoes down until thick",
+            "Blend smooth and continue reducing",
+            "Cool and use concentrated spoonfuls"
+          ],
+          "diet_tags": ["vegan", "vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "breadcrumbs",
+      "aliases": ["crumbs"],
+      "options": [
+        {
+          "option_id": "crumbs_from_bread",
+          "label": "Make breadcrumbs from bread",
+          "base_ingredients": ["bread"],
+          "method_steps": [
+            "Toast stale bread until dry",
+            "Pulse in a processor to coarse crumbs",
+            "Store airtight"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "non-vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "whipped cream",
+      "aliases": [],
+      "options": [
+        {
+          "option_id": "whip_from_cream",
+          "label": "Whip cream",
+          "base_ingredients": ["cream"],
+          "method_steps": [
+            "Chill cream and bowl",
+            "Whip to soft or stiff peaks",
+            "Sweeten if desired"
+          ],
+          "diet_tags": ["vegetarian", "non-vegetarian", "pescatarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "pickle brine quick pickle",
+      "aliases": ["quick pickle"],
+      "options": [
+        {
+          "option_id": "quick_pickle",
+          "label": "Make a quick pickle brine",
+          "base_ingredients": ["vinegar", "sugar", "salt"],
+          "method_steps": [
+            "Heat vinegar with sugar and salt until dissolved",
+            "Pour over sliced vegetables",
+            "Cool; ready in 30–60 minutes"
+          ],
+          "diet_tags": ["vegan", "vegetarian"]
+        }
+      ]
+    },
+    {
+      "derivative": "chia egg",
+      "aliases": ["egg replacer"],
+      "options": [
+        {
+          "option_id": "chia_egg",
+          "label": "Make a chia egg",
+          "base_ingredients": ["chia", "water"],
+          "method_steps": [
+            "Mix 1 tbsp chia seeds with 3 tbsp water",
+            "Rest 5 minutes until gelled",
+            "Use as one egg binder"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "dairy-free"]
+        }
+      ]
+    },
+    {
+      "derivative": "flax egg",
+      "aliases": ["flax binder"],
+      "options": [
+        {
+          "option_id": "flax_egg",
+          "label": "Make a flax egg",
+          "base_ingredients": ["flax", "water"],
+          "method_steps": [
+            "Mix 1 tbsp ground flax with 3 tbsp water",
+            "Rest 5 minutes",
+            "Use as one egg binder"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "dairy-free"]
+        }
+      ]
+    },
+    {
+      "derivative": "hummus",
+      "aliases": [],
+      "options": [
+        {
+          "option_id": "hummus_from_chickpeas",
+          "label": "Make hummus from chickpeas",
+          "base_ingredients": ["chickpeas", "lemon", "garlic", "oil"],
+          "method_steps": [
+            "Blend drained chickpeas with lemon, garlic, and oil",
+            "Add water to loosen",
+            "Season with salt"
+          ],
+          "diet_tags": ["vegan", "vegetarian", "halal", "kosher"]
+        }
+      ]
+    }
+  ]
+}

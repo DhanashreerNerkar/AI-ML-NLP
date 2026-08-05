@@ -1,0 +1,2377 @@
+{
+  "user_426d2d3c17": [
+    {
+      "snapshot_id": "snap_abc09e3c72",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-03T17:15:51.932974+00:00",
+      "source": "image",
+      "image_reference": "40e82cbe81b8d827a75d8207",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_3d4ab7efb5",
+          "name": "yogurt",
+          "normalized_name": "yogurt",
+          "category": "dairy_cultured",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_f6b815e683",
+          "name": "milk",
+          "normalized_name": "milk",
+          "category": "dairy_liquid",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_fdcc3d026c",
+          "name": "pickle",
+          "normalized_name": "pickle",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_b5ea59dd0a",
+          "name": "cheese",
+          "normalized_name": "cheese",
+          "category": "dairy_fresh",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_c5e268b70d",
+          "name": "apricot jam",
+          "normalized_name": "apricot jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_6f6d670b08",
+          "name": "mustard",
+          "normalized_name": "mustard",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_b9390a642a",
+          "name": "curry paste",
+          "normalized_name": "curry paste",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_1cce9720a4",
+          "name": "hummu",
+          "normalized_name": "hummu",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_31b0799531",
+          "name": "chopped herb",
+          "normalized_name": "chopped herb",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_7ec833c7ab",
+          "name": "hot sauce",
+          "normalized_name": "hot sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_9686bcb6a0",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_fef5ec0e30",
+          "name": "whipping cream",
+          "normalized_name": "whipping cream",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_939395a8d0",
+          "name": "butter",
+          "normalized_name": "butter",
+          "category": "dairy_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        },
+        {
+          "ingredient_id": "ing_99792ccc65",
+          "name": "chia seed",
+          "normalized_name": "chia seed",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 14
+        },
+        {
+          "ingredient_id": "ing_1166928196",
+          "name": "pumpkin seed",
+          "normalized_name": "pumpkin seed",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 15
+        },
+        {
+          "ingredient_id": "ing_2e3a044370",
+          "name": "red bell pepper",
+          "normalized_name": "red bell pepper",
+          "category": "firm_produce",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 16
+        },
+        {
+          "ingredient_id": "ing_8fed1a68b2",
+          "name": "jalapeno pepper",
+          "normalized_name": "jalapeno pepper",
+          "category": "firm_produce",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 17
+        },
+        {
+          "ingredient_id": "ing_ad66710309",
+          "name": "apple",
+          "normalized_name": "apple",
+          "category": "firm_fruit",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 18
+        },
+        {
+          "ingredient_id": "ing_41f3e5f342",
+          "name": "cracker",
+          "normalized_name": "cracker",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 19
+        },
+        {
+          "ingredient_id": "ing_4b88123923",
+          "name": "gouda cheese",
+          "normalized_name": "gouda cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 20
+        },
+        {
+          "ingredient_id": "ing_8f6d2d7bfc",
+          "name": "cold brew coffee",
+          "normalized_name": "cold brew coffee",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 21
+        },
+        {
+          "ingredient_id": "ing_934068714d",
+          "name": "sparkling water",
+          "normalized_name": "sparkling water",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 22
+        },
+        {
+          "ingredient_id": "ing_ef5352fe26",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 23
+        },
+        {
+          "ingredient_id": "ing_8ac13de06c",
+          "name": "lime",
+          "normalized_name": "lime",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 24
+        },
+        {
+          "ingredient_id": "ing_466d023b5c",
+          "name": "string cheese",
+          "normalized_name": "string cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 25
+        },
+        {
+          "ingredient_id": "ing_52a2aa5652",
+          "name": "parmesan cheese",
+          "normalized_name": "parmesan cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 26
+        },
+        {
+          "ingredient_id": "ing_fae5891f6a",
+          "name": "rice",
+          "normalized_name": "rice",
+          "category": "grain_cooked_or_dry",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 27
+        },
+        {
+          "ingredient_id": "ing_fe0bb13f94",
+          "name": "olive oil spread",
+          "normalized_name": "olive oil spread",
+          "category": "cooking_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 28
+        }
+      ],
+      "summary": {
+        "total_items": 28,
+        "at_risk_items": 4,
+        "at_risk_percentage": 14.29,
+        "top_at_risk_items": [
+          "yogurt",
+          "milk",
+          "pickle",
+          "cheese"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_ea9dd68c47",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-03T17:18:18.238466+00:00",
+      "source": "image",
+      "image_reference": "c1a7a0f519d3fb3c902eea23",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_e25e75e420",
+          "name": "cheese",
+          "normalized_name": "cheese",
+          "category": "dairy_fresh",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_a101433a72",
+          "name": "pickled vegetable",
+          "normalized_name": "pickled vegetable",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_12cce99c42",
+          "name": "potato",
+          "normalized_name": "potato",
+          "category": "tuber",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_bdac2a5e7c",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_91781149ad",
+          "name": "jam",
+          "normalized_name": "jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_3915f44493",
+          "name": "banana",
+          "normalized_name": "banana",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_b990eb82d3",
+          "name": "grapefruit",
+          "normalized_name": "grapefruit",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_9cb2948899",
+          "name": "orange",
+          "normalized_name": "orange",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_61681f7a54",
+          "name": "apple",
+          "normalized_name": "apple",
+          "category": "firm_fruit",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_b94aee9125",
+          "name": "kiwi",
+          "normalized_name": "kiwi",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_a18da4689f",
+          "name": "carrot",
+          "normalized_name": "carrot",
+          "category": "root_vegetable",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_afff7512df",
+          "name": "onion",
+          "normalized_name": "onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_606eb0f887",
+          "name": "feta cheese",
+          "normalized_name": "feta cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        },
+        {
+          "ingredient_id": "ing_2d34b4a5af",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 14
+        }
+      ],
+      "summary": {
+        "total_items": 14,
+        "at_risk_items": 3,
+        "at_risk_percentage": 21.43,
+        "top_at_risk_items": [
+          "cheese",
+          "pickled vegetable",
+          "potato"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_c1af5fadbb",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-03T17:27:07.101227+00:00",
+      "source": "image",
+      "image_reference": "8d80ae721f34c73abbaf0e29",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_fbf54ea4b2",
+          "name": "capsicum",
+          "normalized_name": "capsicum",
+          "category": "firm_produce",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_6b1faffde2",
+          "name": "carrot",
+          "normalized_name": "carrot",
+          "category": "root_vegetable",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_dc890d99e9",
+          "name": "garlic",
+          "normalized_name": "garlic",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_35907114b2",
+          "name": "onion",
+          "normalized_name": "onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_159be25597",
+          "name": "coriander leave",
+          "normalized_name": "coriander leave",
+          "category": "herb_fresh",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_f40b3e66b7",
+          "name": "black pepper",
+          "normalized_name": "black pepper",
+          "category": "firm_produce",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_a622997a50",
+          "name": "garam masala",
+          "normalized_name": "garam masala",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_e7670b39a0",
+          "name": "turmeric",
+          "normalized_name": "turmeric",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_20644c7a02",
+          "name": "red chilli powder",
+          "normalized_name": "red chilli powder",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_afcaa91643",
+          "name": "kasuri methi",
+          "normalized_name": "kasuri methi",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_a05b58a4aa",
+          "name": "oregano",
+          "normalized_name": "oregano",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_7f6d83a520",
+          "name": "green chilli",
+          "normalized_name": "green chilli",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_721923df2f",
+          "name": "pea",
+          "normalized_name": "pea",
+          "category": "legume",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        },
+        {
+          "ingredient_id": "ing_bbf382fedb",
+          "name": "pasta",
+          "normalized_name": "pasta",
+          "category": "dry_pasta",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 14
+        },
+        {
+          "ingredient_id": "ing_de06bbb321",
+          "name": "pasta sauce",
+          "normalized_name": "pasta sauce",
+          "category": "dry_pasta",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 15
+        },
+        {
+          "ingredient_id": "ing_0dca373bdc",
+          "name": "cumin",
+          "normalized_name": "cumin",
+          "category": "spice",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 16
+        }
+      ],
+      "summary": {
+        "total_items": 16,
+        "at_risk_items": 7,
+        "at_risk_percentage": 43.75,
+        "top_at_risk_items": [
+          "capsicum",
+          "carrot",
+          "garlic",
+          "onion"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_4c01fa0143",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-03T17:50:51.005984+00:00",
+      "source": "image",
+      "image_reference": "03ed7744fd9ba46cb94bec74",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_071580b546",
+          "name": "cauliflower",
+          "normalized_name": "cauliflower",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_3df002970c",
+          "name": "spinach",
+          "normalized_name": "spinach",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_129c8501d3",
+          "name": "red cabbage",
+          "normalized_name": "red cabbage",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_8a56716845",
+          "name": "lettuce",
+          "normalized_name": "lettuce",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_5d00eb4869",
+          "name": "orange",
+          "normalized_name": "orange",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_3d9f37be9e",
+          "name": "green onion",
+          "normalized_name": "green onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_6f11e0718f",
+          "name": "broccoli",
+          "normalized_name": "broccoli",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_0d582409b9",
+          "name": "radish",
+          "normalized_name": "radish",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_8f6850bff6",
+          "name": "ginger",
+          "normalized_name": "ginger",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_786acfbc0c",
+          "name": "turnip",
+          "normalized_name": "turnip",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_9413fda50d",
+          "name": "artichoke",
+          "normalized_name": "artichoke",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_62fd4bb41d",
+          "name": "lime",
+          "normalized_name": "lime",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_1c2dc035f9",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        }
+      ],
+      "summary": {
+        "total_items": 13,
+        "at_risk_items": 4,
+        "at_risk_percentage": 30.77,
+        "top_at_risk_items": [
+          "cauliflower",
+          "spinach",
+          "red cabbage",
+          "lettuce"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_c2e6898565",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-04T00:02:29.807810+00:00",
+      "source": "image",
+      "image_reference": "03ed7744fd9ba46cb94bec74",
+      "confirmed": true,
+      "possible_duplicate": true,
+      "duplicate_of": "snap_4c01fa0143",
+      "is_new_purchase": false,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_b5ca03bfb0",
+          "name": "spinach",
+          "normalized_name": "spinach",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_2a77d40dc5",
+          "name": "lettuce",
+          "normalized_name": "lettuce",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_33b1bfdf7d",
+          "name": "green onion",
+          "normalized_name": "green onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_2e7e9ddf8d",
+          "name": "cauliflower",
+          "normalized_name": "cauliflower",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_b74412321f",
+          "name": "broccoli",
+          "normalized_name": "broccoli",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_12c33fa13b",
+          "name": "ginger",
+          "normalized_name": "ginger",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_b171552072",
+          "name": "orange",
+          "normalized_name": "orange",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_ac5a24f7d2",
+          "name": "radish",
+          "normalized_name": "radish",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_6792dac975",
+          "name": "red cabbage",
+          "normalized_name": "red cabbage",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_ca0ac1064c",
+          "name": "turnip",
+          "normalized_name": "turnip",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_3474ba0c27",
+          "name": "artichoke",
+          "normalized_name": "artichoke",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_44ed5de367",
+          "name": "lime",
+          "normalized_name": "lime",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_4be9b5a83b",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        }
+      ],
+      "summary": {
+        "total_items": 13,
+        "at_risk_items": 6,
+        "at_risk_percentage": 46.15,
+        "top_at_risk_items": [
+          "spinach",
+          "lettuce",
+          "green onion",
+          "cauliflower"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_20a633895f",
+      "user_id": "user_426d2d3c17",
+      "created_at": "2026-08-04T00:06:05.115126+00:00",
+      "source": "image",
+      "image_reference": "40e82cbe81b8d827a75d8207",
+      "confirmed": true,
+      "possible_duplicate": true,
+      "duplicate_of": "snap_abc09e3c72",
+      "is_new_purchase": false,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_25cfbf1ca2",
+          "name": "cheese",
+          "normalized_name": "cheese",
+          "category": "dairy_fresh",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_01a938e11e",
+          "name": "sour cream",
+          "normalized_name": "sour cream",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_90459e9c05",
+          "name": "milk",
+          "normalized_name": "milk",
+          "category": "dairy_liquid",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_bb58ab2165",
+          "name": "yogurt",
+          "normalized_name": "yogurt",
+          "category": "dairy_cultured",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_ba4481af16",
+          "name": "chia seed",
+          "normalized_name": "chia seed",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_bd87dfe90a",
+          "name": "jalape\u00f1o",
+          "normalized_name": "jalape\u00f1o",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_8b93b24b30",
+          "name": "apple",
+          "normalized_name": "apple",
+          "category": "firm_fruit",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_773a726501",
+          "name": "cold brew coffee concentrate",
+          "normalized_name": "cold brew coffee concentrate",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_235ae6fb4d",
+          "name": "sparkling water",
+          "normalized_name": "sparkling water",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_f736285cd3",
+          "name": "apricot jam",
+          "normalized_name": "apricot jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_0905c8578e",
+          "name": "mustard",
+          "normalized_name": "mustard",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_7471b998f7",
+          "name": "pickle",
+          "normalized_name": "pickle",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_17f1c31f2e",
+          "name": "chopped herb",
+          "normalized_name": "chopped herb",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        },
+        {
+          "ingredient_id": "ing_1da8f826b7",
+          "name": "hummu",
+          "normalized_name": "hummu",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 14
+        },
+        {
+          "ingredient_id": "ing_ebdde5cfaf",
+          "name": "red curry paste",
+          "normalized_name": "red curry paste",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 15
+        },
+        {
+          "ingredient_id": "ing_6119111337",
+          "name": "hot sauce",
+          "normalized_name": "hot sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 16
+        },
+        {
+          "ingredient_id": "ing_6d813e1b1e",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 17
+        },
+        {
+          "ingredient_id": "ing_4124717f4e",
+          "name": "heavy cream",
+          "normalized_name": "heavy cream",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 18
+        },
+        {
+          "ingredient_id": "ing_87153fe8cb",
+          "name": "pepita",
+          "normalized_name": "pepita",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 19
+        },
+        {
+          "ingredient_id": "ing_b4cc1bc23b",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 20
+        },
+        {
+          "ingredient_id": "ing_72c83ad26f",
+          "name": "red bell pepper",
+          "normalized_name": "red bell pepper",
+          "category": "firm_produce",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 21
+        },
+        {
+          "ingredient_id": "ing_86ffe1d30a",
+          "name": "cracker",
+          "normalized_name": "cracker",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 22
+        },
+        {
+          "ingredient_id": "ing_940370110f",
+          "name": "butter",
+          "normalized_name": "butter",
+          "category": "dairy_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 23
+        },
+        {
+          "ingredient_id": "ing_5331087936",
+          "name": "lime",
+          "normalized_name": "lime",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 24
+        },
+        {
+          "ingredient_id": "ing_3ce0d6f2dd",
+          "name": "string cheese",
+          "normalized_name": "string cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 25
+        },
+        {
+          "ingredient_id": "ing_5dbe68b949",
+          "name": "sliced cheese",
+          "normalized_name": "sliced cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 26
+        },
+        {
+          "ingredient_id": "ing_99da0a500a",
+          "name": "rice",
+          "normalized_name": "rice",
+          "category": "grain_cooked_or_dry",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 27
+        }
+      ],
+      "summary": {
+        "total_items": 27,
+        "at_risk_items": 7,
+        "at_risk_percentage": 25.93,
+        "top_at_risk_items": [
+          "cheese",
+          "sour cream",
+          "milk",
+          "yogurt"
+        ]
+      }
+    }
+  ],
+  "user_d5f6734f64": [
+    {
+      "snapshot_id": "snap_9b36105436",
+      "user_id": "user_d5f6734f64",
+      "created_at": "2026-08-04T00:18:46.214226+00:00",
+      "source": "image",
+      "image_reference": "3aa1967b983c6a4debda99af",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_ff5122bedb",
+          "name": "hot sauce",
+          "normalized_name": "hot sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_36d4a64cb7",
+          "name": "mustard",
+          "normalized_name": "mustard",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_068d9a2ccf",
+          "name": "ketchup",
+          "normalized_name": "ketchup",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_78d3f11cf9",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_3f1230635a",
+          "name": "chia seed",
+          "normalized_name": "chia seed",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_4138803f39",
+          "name": "soy sauce",
+          "normalized_name": "soy sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_1871b756de",
+          "name": "jam",
+          "normalized_name": "jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_a222610142",
+          "name": "butter",
+          "normalized_name": "butter",
+          "category": "dairy_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_ffa9a488a7",
+          "name": "rice vinegar",
+          "normalized_name": "rice vinegar",
+          "category": "grain_cooked_or_dry",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_9c162e98b9",
+          "name": "olive",
+          "normalized_name": "olive",
+          "category": "cooking_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_6ece38db5b",
+          "name": "olive oil",
+          "normalized_name": "olive oil",
+          "category": "cooking_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        }
+      ],
+      "summary": {
+        "total_items": 11,
+        "at_risk_items": 0,
+        "at_risk_percentage": 0.0,
+        "top_at_risk_items": []
+      }
+    },
+    {
+      "snapshot_id": "snap_4f6ca5b4d9",
+      "user_id": "user_d5f6734f64",
+      "created_at": "2026-08-04T00:20:00.196669+00:00",
+      "source": "image",
+      "image_reference": "3aa1967b983c6a4debda99af",
+      "confirmed": true,
+      "possible_duplicate": true,
+      "duplicate_of": "snap_9b36105436",
+      "is_new_purchase": false,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_afa6c26a41",
+          "name": "hot sauce",
+          "normalized_name": "hot sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_dd06c34957",
+          "name": "mustard",
+          "normalized_name": "mustard",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_ca71827017",
+          "name": "soy sauce",
+          "normalized_name": "soy sauce",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_93bc443da3",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_7163654aef",
+          "name": "ketchup",
+          "normalized_name": "ketchup",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_d44754bd16",
+          "name": "chia seed",
+          "normalized_name": "chia seed",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_5209fea6f4",
+          "name": "canned food",
+          "normalized_name": "canned food",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_f8ae879ae0",
+          "name": "pickle",
+          "normalized_name": "pickle",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_3bd23d535e",
+          "name": "jam",
+          "normalized_name": "jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_3b549d750c",
+          "name": "rice vinegar",
+          "normalized_name": "rice vinegar",
+          "category": "grain_cooked_or_dry",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_72893af555",
+          "name": "olive",
+          "normalized_name": "olive",
+          "category": "cooking_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        }
+      ],
+      "summary": {
+        "total_items": 11,
+        "at_risk_items": 0,
+        "at_risk_percentage": 0.0,
+        "top_at_risk_items": []
+      }
+    },
+    {
+      "snapshot_id": "snap_be32bce723",
+      "user_id": "user_d5f6734f64",
+      "created_at": "2026-08-04T00:22:04.460367+00:00",
+      "source": "image",
+      "image_reference": "3aa1967b983c6a4debda99af",
+      "confirmed": true,
+      "possible_duplicate": true,
+      "duplicate_of": "snap_4f6ca5b4d9",
+      "is_new_purchase": false,
+      "ingredients": [
+        {
+          "ingredient_id": null,
+          "name": "id='ing bcb4f52396' normalized name='hot sauce' display name='hot sauce' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "normalized_name": "id='ing bcb4f52396' normalized name='hot sauce' display name='hot sauce' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing b4c99d8f9c' normalized name='mustard' display name='mustard' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing b4c99d8f9c' normalized name='mustard' display name='mustard' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 99914ebcba' normalized name='honey' display name='honey' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing 99914ebcba' normalized name='honey' display name='honey' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing d420fd4cd1' normalized name='jam' display name='jam' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing d420fd4cd1' normalized name='jam' display name='jam' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 67ff9dab0b' normalized name='ketchup' display name='ketchup' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "normalized_name": "id='ing 67ff9dab0b' normalized name='ketchup' display name='ketchup' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 556c5d77cc' normalized name='olives' display name='olives' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing 556c5d77cc' normalized name='olives' display name='olives' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 6e375ce440' normalized name='pickles' display name='pickles' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing 6e375ce440' normalized name='pickles' display name='pickles' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 553112ee91' normalized name='chia seeds' display name='chia seeds' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "normalized_name": "id='ing 553112ee91' normalized name='chia seeds' display name='chia seeds' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 630f6aa283' normalized name='soy sauce' display name='soy sauce' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing 630f6aa283' normalized name='soy sauce' display name='soy sauce' quantity=none unit=none quantity text=none source='photo' confidence=0.7 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing c1d4067d40' normalized name='salsa' display name='salsa' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing c1d4067d40' normalized name='salsa' display name='salsa' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 8ecefb7019' normalized name='butter' display name='butter' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "normalized_name": "id='ing 8ecefb7019' normalized name='butter' display name='butter' quantity=none unit=none quantity text=none source='photo' confidence=0.45 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=true notes=''",
+          "category": "dairy_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": null,
+          "name": "id='ing 25c8a338ed' normalized name='rice vinegar' display name='rice vinegar' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "normalized_name": "id='ing 25c8a338ed' normalized name='rice vinegar' display name='rice vinegar' quantity=none unit=none quantity text=none source='photo' confidence=0.9 confirmed=true opened=false cooked=false frozen=false use soon user flag=false exclude from plan=false do not use=false needs confirmation=false notes=''",
+          "category": "grain_cooked_or_dry",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 20,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        }
+      ],
+      "summary": {
+        "total_items": 12,
+        "at_risk_items": 0,
+        "at_risk_percentage": 0.0,
+        "top_at_risk_items": []
+      }
+    },
+    {
+      "snapshot_id": "snap_c69860bce2",
+      "user_id": "user_d5f6734f64",
+      "created_at": "2026-08-04T00:24:00.150531+00:00",
+      "source": "image",
+      "image_reference": "f03dea6ea19aa78513ac8c41",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_9da9bfbc60",
+          "name": "lettuce",
+          "normalized_name": "lettuce",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_9be294b071",
+          "name": "oat milk",
+          "normalized_name": "oat milk",
+          "category": "dairy_liquid",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_6ba3e6ebe2",
+          "name": "bread",
+          "normalized_name": "bread",
+          "category": "bakery",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_faa5a4fd50",
+          "name": "garlic",
+          "normalized_name": "garlic",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_be39166bbb",
+          "name": "onion",
+          "normalized_name": "onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_6d9484e25b",
+          "name": "kale",
+          "normalized_name": "kale",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_8fea978039",
+          "name": "broccoli",
+          "normalized_name": "broccoli",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_b24eda2553",
+          "name": "herb",
+          "normalized_name": "herb",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_9725abfc7b",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        }
+      ],
+      "summary": {
+        "total_items": 9,
+        "at_risk_items": 3,
+        "at_risk_percentage": 33.33,
+        "top_at_risk_items": [
+          "lettuce",
+          "oat milk",
+          "bread"
+        ]
+      }
+    },
+    {
+      "snapshot_id": "snap_ba45975e77",
+      "user_id": "user_d5f6734f64",
+      "created_at": "2026-08-04T00:29:35.400244+00:00",
+      "source": "image",
+      "image_reference": "9158f2622535b80bf2c9c315",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_02b7cb42d7",
+          "name": "milk",
+          "normalized_name": "milk",
+          "category": "dairy_liquid",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_8078a81a02",
+          "name": "orange juice",
+          "normalized_name": "orange juice",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_39d1c1a453",
+          "name": "tortilla",
+          "normalized_name": "tortilla",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_8ddac2ea76",
+          "name": "bean",
+          "normalized_name": "bean",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_e1952b04a8",
+          "name": "leftover food",
+          "normalized_name": "leftover food",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_46bfeb701e",
+          "name": "green bean",
+          "normalized_name": "green bean",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_ca893079f2",
+          "name": "canned food",
+          "normalized_name": "canned food",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_95ebca6376",
+          "name": "cracker",
+          "normalized_name": "cracker",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_faf372693d",
+          "name": "soup",
+          "normalized_name": "soup",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_bd36357193",
+          "name": "butter",
+          "normalized_name": "butter",
+          "category": "dairy_fat",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        }
+      ],
+      "summary": {
+        "total_items": 10,
+        "at_risk_items": 1,
+        "at_risk_percentage": 10.0,
+        "top_at_risk_items": [
+          "milk"
+        ]
+      }
+    }
+  ],
+  "user_fbb8be0d64": [
+    {
+      "snapshot_id": "snap_31c79d2f8b",
+      "user_id": "user_fbb8be0d64",
+      "created_at": "2026-08-04T00:40:30.286046+00:00",
+      "source": "image",
+      "image_reference": "f03dea6ea19aa78513ac8c41",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_62d985c0a6",
+          "name": "lettuce",
+          "normalized_name": "lettuce",
+          "category": "leafy_green",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 100,
+          "freshness_status": "use_first",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_b91f9c34de",
+          "name": "oat milk",
+          "normalized_name": "oat milk",
+          "category": "dairy_liquid",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_b5e4c09855",
+          "name": "cabbage",
+          "normalized_name": "cabbage",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_5d1ae555d5",
+          "name": "garlic",
+          "normalized_name": "garlic",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_b880e62621",
+          "name": "kale",
+          "normalized_name": "kale",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_69657c3673",
+          "name": "broccoli",
+          "normalized_name": "broccoli",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_29b30603f0",
+          "name": "herb",
+          "normalized_name": "herb",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_32497f4f03",
+          "name": "hummu",
+          "normalized_name": "hummu",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_956ccc8d1e",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        }
+      ],
+      "summary": {
+        "total_items": 9,
+        "at_risk_items": 2,
+        "at_risk_percentage": 22.22,
+        "top_at_risk_items": [
+          "lettuce",
+          "oat milk"
+        ]
+      }
+    }
+  ],
+  "user_1dff8214f2": [
+    {
+      "snapshot_id": "snap_2f8c8d4261",
+      "user_id": "user_1dff8214f2",
+      "created_at": "2026-08-05T01:02:46.992192+00:00",
+      "source": "image",
+      "image_reference": "c1a7a0f519d3fb3c902eea23",
+      "confirmed": true,
+      "possible_duplicate": false,
+      "duplicate_of": null,
+      "is_new_purchase": null,
+      "ingredients": [
+        {
+          "ingredient_id": "ing_4f978253f3",
+          "name": "cheese",
+          "normalized_name": "cheese",
+          "category": "dairy_fresh",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 1
+        },
+        {
+          "ingredient_id": "ing_508eb233d5",
+          "name": "egg",
+          "normalized_name": "egg",
+          "category": "eggs",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 80,
+          "freshness_status": "use_soon",
+          "priority_rank": 2
+        },
+        {
+          "ingredient_id": "ing_dba6cf820d",
+          "name": "pickled vegetable",
+          "normalized_name": "pickled vegetable",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 3
+        },
+        {
+          "ingredient_id": "ing_baa4a35c76",
+          "name": "honey",
+          "normalized_name": "honey",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 4
+        },
+        {
+          "ingredient_id": "ing_10704035a8",
+          "name": "jam",
+          "normalized_name": "jam",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 5
+        },
+        {
+          "ingredient_id": "ing_657a61953c",
+          "name": "sausage",
+          "normalized_name": "sausage",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 6
+        },
+        {
+          "ingredient_id": "ing_94d2da46ca",
+          "name": "banana",
+          "normalized_name": "banana",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 7
+        },
+        {
+          "ingredient_id": "ing_042650140d",
+          "name": "grapefruit",
+          "normalized_name": "grapefruit",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 8
+        },
+        {
+          "ingredient_id": "ing_707a046b04",
+          "name": "tangerine",
+          "normalized_name": "tangerine",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 9
+        },
+        {
+          "ingredient_id": "ing_40a51dfd51",
+          "name": "apple",
+          "normalized_name": "apple",
+          "category": "firm_fruit",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 10
+        },
+        {
+          "ingredient_id": "ing_d2888a7e85",
+          "name": "kiwi",
+          "normalized_name": "kiwi",
+          "category": "unknown",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 11
+        },
+        {
+          "ingredient_id": "ing_ff60c473bc",
+          "name": "carrot",
+          "normalized_name": "carrot",
+          "category": "root_vegetable",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 12
+        },
+        {
+          "ingredient_id": "ing_309c794d16",
+          "name": "potato",
+          "normalized_name": "potato",
+          "category": "tuber",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 13
+        },
+        {
+          "ingredient_id": "ing_82d054aba7",
+          "name": "onion",
+          "normalized_name": "onion",
+          "category": "allium",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 60,
+          "freshness_status": "fresh",
+          "priority_rank": 14
+        },
+        {
+          "ingredient_id": "ing_3c599cf75e",
+          "name": "feta cheese",
+          "normalized_name": "feta cheese",
+          "category": "aged_cheese",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 15
+        },
+        {
+          "ingredient_id": "ing_7878a01a26",
+          "name": "lemon",
+          "normalized_name": "lemon",
+          "category": "citrus",
+          "quantity": null,
+          "unit": null,
+          "freshness_score": 40,
+          "freshness_status": "fresh",
+          "priority_rank": 16
+        }
+      ],
+      "summary": {
+        "total_items": 16,
+        "at_risk_items": 2,
+        "at_risk_percentage": 12.5,
+        "top_at_risk_items": [
+          "cheese",
+          "egg"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "user_426d2d3c17": [
+    {
+      "outcome_id": "outcome_a939e58e89",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "yogurt",
+      "related_snapshot_id": "snap_ea9dd68c47",
+      "recorded_at": "2026-08-03T17:22:16.461019+00:00",
+      "outcome": "spoiled",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_5160800cb1",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "milk",
+      "related_snapshot_id": "snap_ea9dd68c47",
+      "recorded_at": "2026-08-03T17:22:36.350475+00:00",
+      "outcome": "donated",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_b7e23156c4",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "pickle",
+      "related_snapshot_id": "snap_ea9dd68c47",
+      "recorded_at": "2026-08-03T17:22:39.229639+00:00",
+      "outcome": "donated",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_e14a3ad28c",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "cheese",
+      "related_snapshot_id": "snap_c1af5fadbb",
+      "recorded_at": "2026-08-03T17:27:39.851965+00:00",
+      "outcome": "thrown_away",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_41c3ff4b38",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "pickled vegetable",
+      "related_snapshot_id": "snap_c1af5fadbb",
+      "recorded_at": "2026-08-03T17:27:48.693790+00:00",
+      "outcome": "still_have",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_3f087dd1cd",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "potato",
+      "related_snapshot_id": "snap_c1af5fadbb",
+      "recorded_at": "2026-08-03T17:27:51.423061+00:00",
+      "outcome": "thrown_away",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_0e0cad3701",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "capsicum",
+      "related_snapshot_id": "snap_4c01fa0143",
+      "recorded_at": "2026-08-03T17:51:52.508932+00:00",
+      "outcome": "thrown_away",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_ba89a85be2",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "carrot",
+      "related_snapshot_id": "snap_4c01fa0143",
+      "recorded_at": "2026-08-03T17:51:59.131158+00:00",
+      "outcome": "still_have",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_107c1b9d0c",
+      "user_id": "user_426d2d3c17",
+      "ingredient_name": "garlic",
+      "related_snapshot_id": "snap_4c01fa0143",
+      "recorded_at": "2026-08-03T17:52:04.891981+00:00",
+      "outcome": "donated",
+      "confirmed_by_user": true
+    }
+  ],
+  "user_d5f6734f64": [
+    {
+      "outcome_id": "outcome_b2fea7f918",
+      "user_id": "user_d5f6734f64",
+      "ingredient_name": "lettuce",
+      "related_snapshot_id": "snap_ba45975e77",
+      "recorded_at": "2026-08-04T00:29:41.732036+00:00",
+      "outcome": "spoiled",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_36b0d4975d",
+      "user_id": "user_d5f6734f64",
+      "ingredient_name": "oat milk",
+      "related_snapshot_id": "snap_ba45975e77",
+      "recorded_at": "2026-08-04T00:29:48.700158+00:00",
+      "outcome": "spoiled",
+      "confirmed_by_user": true
+    },
+    {
+      "outcome_id": "outcome_e138281c4f",
+      "user_id": "user_d5f6734f64",
+      "ingredient_name": "bread",
+      "related_snapshot_id": "snap_ba45975e77",
+      "recorded_at": "2026-08-04T00:29:49.904382+00:00",
+      "outcome": "spoiled",
+      "confirmed_by_user": true
+    }
+  ]
+}
