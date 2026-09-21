@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 # PantryPilot (FoodPlanner.AI)
 ---------------------------------------------------------------------------------------------------------------------
-
+Engineered an agentic synthetic AI system featuring persistent short-term and long-term memory architectures, enabling context-aware decision-making and continuous state retention across multi-step tasks.
 Demo Link: https://food-waste-planner.streamlit.app/?
 
 ## Quick start
