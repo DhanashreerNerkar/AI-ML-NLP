@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------------------------
-# PantryPilot (FoodPlanner.AI) | Demo Link: https://food-waste-planner.streamlit.app/?
+# PantryPilot (FoodPlanner.AI)
 ---------------------------------------------------------------------------------------------------------------------
+
+Demo Link: https://food-waste-planner.streamlit.app/?
 
 ## Quick start
 
