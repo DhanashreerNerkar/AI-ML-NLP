@@ -1,2 +1,0 @@
-Developed an autonomous Snake game agent powered by Deep Q-Learning (DQN) to demonstrate real-time reinforcement learning principles. 
-Built a self-learning agent that optimizes spatial navigation and food acquisition strategies through trial-and-error reward structures and continuous state space evaluation.
